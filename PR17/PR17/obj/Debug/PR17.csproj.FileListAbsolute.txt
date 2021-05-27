@@ -1,0 +1,7 @@
+C:\Users\Ez\source\repos\PR17\PR17\bin\Debug\PR17.exe.config
+C:\Users\Ez\source\repos\PR17\PR17\bin\Debug\PR17.exe
+C:\Users\Ez\source\repos\PR17\PR17\bin\Debug\PR17.pdb
+C:\Users\Ez\source\repos\PR17\PR17\obj\Debug\PR17.csprojAssemblyReference.cache
+C:\Users\Ez\source\repos\PR17\PR17\obj\Debug\PR17.csproj.CoreCompileInputs.cache
+C:\Users\Ez\source\repos\PR17\PR17\obj\Debug\PR17.exe
+C:\Users\Ez\source\repos\PR17\PR17\obj\Debug\PR17.pdb
